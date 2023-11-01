@@ -1,2 +1,2 @@
 # APP-Mini-Project
-I have created a simple quiz hame using python
+I have created a simple quiz hame using Python and Tinker
